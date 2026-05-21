@@ -1,0 +1,39 @@
+[
+  {
+    "record_id": "1",
+    "conference_name": "International Conference on Web Information Systems Engineering",
+    "acronym": "WISE",
+    "submission_deadline": "17 June 2026",
+    "notification_date": "20 July 2026",
+    "conference_dates": null,
+    "location": null,
+    "topics": [
+      "General InformationAbout WISEProceedings",
+      "About WISE",
+      "Proceedings",
+      "CallsCall For Research PapersCall for Industry PapersCall for Demo PapersCall For TutorialsCall For Workshops / Special TracksCall For Student Papers",
+      "Call For Research Papers",
+      "Call for Industry Papers",
+      "Call for Demo Papers",
+      "Call For Tutorials",
+      "Call For Workshops / Special Tracks",
+      "Call For Student Papers",
+      "Workshops & TracksSpecial Track on Security, Trustworthiness, and Runtime Governance of AI-Driven Critical SystemsSpecial Track on Knowledge Graphs and RAG on the WebThe 2nd International Workshop on LLM-Driven Agents",
+      "Special Track on Security, Trustworthiness, and Runtime Governance of AI-Driven Critical Systems",
+      "Special Track on Knowledge Graphs and RAG on the Web",
+      "The 2nd International Workshop on LLM-Driven Agents",
+      "ProgramKeynote Speakers",
+      "Keynote Speakers",
+      "OrganizationConference ChairsProgram Committee",
+      "Conference Chairs",
+      "Program Committee",
+      "Travel InfoConference VenueTransportationAccommodation",
+      "Conference Venue",
+      "Transportation",
+      "Accommodation"
+    ],
+    "submission_url": "https://cmt3.research.microsoft.com/WISE2026",
+    "source_url": "https://conferences.sigappfr.org/wise2026/call-for-papers/",
+    "source_xpath": "/html/body/div[1]/div[3]/div[2]/div/div[1]/div/div/div[1]/div/div/div/div[2]/div/div/div/div[7]"
+  }
+]

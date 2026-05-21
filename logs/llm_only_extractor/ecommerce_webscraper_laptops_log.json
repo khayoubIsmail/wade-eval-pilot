@@ -1,0 +1,14 @@
+{
+  "agent": "llm_only_extractor",
+  "site_id": "ecommerce_webscraper_laptops",
+  "model": "claude-haiku-4-5",
+  "start_time": "2026-05-21T17:30:24",
+  "latency_seconds": 9.84,
+  "tokens_input": 9095,
+  "tokens_output": 1458,
+  "estimated_cost": 0.016385,
+  "html_chars_sent": 16646,
+  "num_records": 10,
+  "status": "success",
+  "error": null
+}

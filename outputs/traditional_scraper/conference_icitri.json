@@ -1,0 +1,39 @@
+[
+  {
+    "record_id": "1",
+    "conference_name": "International Conference on Information Technology Research and Innovation",
+    "acronym": "ICITRI",
+    "submission_deadline": "30 June 2026",
+    "notification_date": "25 July 2026",
+    "conference_dates": "10 September 2026",
+    "location": "Universitas Nusa Mandiri - Depok, Indonesia",
+    "topics": [
+      "Artificial Intelligence and Machine Learning",
+      "Mobile and Cloud Computing",
+      "Data Mining",
+      "Human-machine Systems",
+      "Cybernetics",
+      "Image Enhancement",
+      "Image Preprocessing, Registration & Fusion",
+      "Image Classification, Segmentation and Pattern Recognition",
+      "Audio and Video Processing, Motion and Tracking",
+      "Signal and Speech Processing",
+      "Model-Driven Software Engineering",
+      "Requirements Engineering",
+      "Component-based Software Engineering",
+      "Knowledge-based Software Engineering",
+      "Experimental Software Engineering",
+      "Theoretical Foundations of Software Engineering",
+      "Biometrics",
+      "Bioinformatics",
+      "Clinical Informatics",
+      "Public Health Informatics",
+      "Consumer Health Informatics",
+      "Translation Bioinformatics",
+      "Neuroinformatics"
+    ],
+    "submission_url": "https://edas.info/N34766",
+    "source_url": "https://icitri.nusamandiri.ac.id/",
+    "source_xpath": "/html/body/section[5]"
+  }
+]

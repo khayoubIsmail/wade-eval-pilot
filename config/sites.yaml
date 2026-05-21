@@ -1,0 +1,76 @@
+# config/sites.yaml
+
+sites:
+  # =====================
+  # E-COMMERCE DOMAIN
+  # =====================
+
+  - id: ecommerce_books
+    domain: ecommerce
+    name: Books to Scrape
+    url: https://books.toscrape.com/
+    schema: ecommerce_schema.json
+    snapshot_path: data/snapshots/ecommerce/books.html
+    screenshot_path: data/screenshots/ecommerce/books.png
+    ground_truth_path: data/ground_truth/ecommerce_books.json
+    output_limit: 10
+    notes: "Book listing page; extract book records."
+
+  - id: ecommerce_webscraper_laptops
+    domain: ecommerce
+    name: WebScraper Laptop Test Site
+    url: https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops
+    schema: ecommerce_schema.json
+    snapshot_path: data/snapshots/ecommerce/webscraper_laptops.html
+    screenshot_path: data/screenshots/ecommerce/webscraper_laptops.png
+    ground_truth_path: data/ground_truth/ecommerce_webscraper_laptops.json
+    output_limit: 10
+    notes: "Laptop listing page; extract product records."
+
+  - id: ecommerce_demoblaze
+    domain: ecommerce
+    name: Demoblaze Product Store
+    url: https://www.demoblaze.com/
+    schema: ecommerce_schema.json
+    snapshot_path: data/snapshots/ecommerce/demoblaze.html
+    screenshot_path: data/screenshots/ecommerce/demoblaze.png
+    ground_truth_path: data/ground_truth/ecommerce_demoblaze.json
+    output_limit: 10
+    notes: "Demo e-commerce product listing page; extract product records."
+
+  # =====================
+  # CONFERENCE DOMAIN
+  # =====================
+
+  - id: conference_icitri
+    domain: conference
+    name: ICITRI
+    url: https://icitri.nusamandiri.ac.id/
+    schema: conference_schema.json
+    snapshot_path: data/snapshots/conferences/icitri.html
+    screenshot_path: data/screenshots/conferences/icitri.png
+    ground_truth_path: data/ground_truth/conference_icitri.json
+    output_limit: 1
+    notes: "Conference information extraction."
+
+  - id: conference_icoa
+    domain: conference
+    name: ICOA
+    url: http://icoa-conf.org/index.html
+    schema: conference_schema.json
+    snapshot_path: data/snapshots/conferences/icoa.html
+    screenshot_path: data/screenshots/conferences/icoa.png
+    ground_truth_path: data/ground_truth/conference_icoa.json
+    output_limit: 1
+    notes: "Conference information extraction."
+
+  - id: conference_wise2026
+    domain: conference
+    name: WISE 2026
+    url: https://conferences.sigappfr.org/wise2026/call-for-papers/
+    schema: conference_schema.json
+    snapshot_path: data/snapshots/conferences/wise2026_cfp.html
+    screenshot_path: data/screenshots/conferences/wise2026_cfp.png
+    ground_truth_path: data/ground_truth/conference_wise2026.json
+    output_limit: 1
+    notes: "WISE 2026 call-for-papers page; extract conference information."

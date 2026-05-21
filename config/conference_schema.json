@@ -1,0 +1,45 @@
+{
+  "schema_name": "conference_information_schema",
+  "fields": {
+    "conference_name": {
+      "type": "string",
+      "required": true
+    },
+    "acronym": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "submission_deadline": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "notification_date": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "conference_dates": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "location": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "topics": {
+      "type": "array",
+      "required": false
+    },
+    "submission_url": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "source_url": {
+      "type": "string",
+      "required": true
+    },
+    "source_xpath": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

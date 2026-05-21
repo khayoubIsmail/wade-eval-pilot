@@ -1,0 +1,14 @@
+{
+  "agent": "llm_only_extractor",
+  "site_id": "ecommerce_books",
+  "model": "claude-haiku-4-5",
+  "start_time": "2026-05-21T17:30:05",
+  "latency_seconds": 4.7,
+  "tokens_input": 1434,
+  "tokens_output": 918,
+  "estimated_cost": 0.006024,
+  "html_chars_sent": 2428,
+  "num_records": 10,
+  "status": "success",
+  "error": null
+}

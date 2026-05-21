@@ -1,0 +1,102 @@
+[
+  {
+    "record_id": "1",
+    "name": "Asus VivoBook...",
+    "price": "$295.99",
+    "rating": "3",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/60",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "2",
+    "name": "Prestigio Smar...",
+    "price": "$299",
+    "rating": "2",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/61",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "3",
+    "name": "Prestigio Smar...",
+    "price": "$299",
+    "rating": "4",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/62",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "4",
+    "name": "Aspire E1-510",
+    "price": "$306.99",
+    "rating": "3",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/32",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "5",
+    "name": "Lenovo V110-15...",
+    "price": "$321.94",
+    "rating": "3",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/63",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "6",
+    "name": "Lenovo V110-15...",
+    "price": "$356.49",
+    "rating": "2",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/64",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "7",
+    "name": "Hewlett Packar...",
+    "price": "$364.46",
+    "rating": "1",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/65",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[7]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "8",
+    "name": "Acer Aspire 3...",
+    "price": "$372.7",
+    "rating": "2",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/66",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[8]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "9",
+    "name": "Acer Aspire A3...",
+    "price": "$379.94",
+    "rating": "2",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/67",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  },
+  {
+    "record_id": "10",
+    "name": "Acer Aspire ES...",
+    "price": "$379.95",
+    "rating": "4",
+    "availability": null,
+    "product_url": "https://webscraper.io/test-sites/e-commerce/allinone/product/68",
+    "source_url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "source_xpath": "/html[1]/body[1]/div[1]/main[1]/div[3]/div[1]/div[2]/div[1]/div[10]/div[1]/div[1]/div[1]/h4[2]/a[1]"
+  }
+]

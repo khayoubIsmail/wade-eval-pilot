@@ -1,0 +1,56 @@
+[
+  {
+    "site_id": "ecommerce_books",
+    "url": "https://books.toscrape.com/",
+    "snapshot_path": "data/snapshots/ecommerce/books.html",
+    "screenshot_path": "data/screenshots/ecommerce/books.png",
+    "captured_at_utc": "2026-05-21T13:05:15.498921+00:00",
+    "status": "success",
+    "error": null
+  },
+  {
+    "site_id": "ecommerce_webscraper_laptops",
+    "url": "https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops",
+    "snapshot_path": "data/snapshots/ecommerce/webscraper_laptops.html",
+    "screenshot_path": "data/screenshots/ecommerce/webscraper_laptops.png",
+    "captured_at_utc": "2026-05-21T13:05:24.736207+00:00",
+    "status": "success",
+    "error": null
+  },
+  {
+    "site_id": "ecommerce_demoblaze",
+    "url": "https://www.demoblaze.com/",
+    "snapshot_path": "data/snapshots/ecommerce/demoblaze.html",
+    "screenshot_path": "data/screenshots/ecommerce/demoblaze.png",
+    "captured_at_utc": "2026-05-21T13:05:32.116422+00:00",
+    "status": "success",
+    "error": null
+  },
+  {
+    "site_id": "conference_icitri",
+    "url": "https://icitri.nusamandiri.ac.id/",
+    "snapshot_path": "data/snapshots/conferences/icitri.html",
+    "screenshot_path": "data/screenshots/conferences/icitri.png",
+    "captured_at_utc": "2026-05-21T13:05:41.388859+00:00",
+    "status": "success",
+    "error": null
+  },
+  {
+    "site_id": "conference_icoa",
+    "url": "http://icoa-conf.org/index.html",
+    "snapshot_path": "data/snapshots/conferences/icoa.html",
+    "screenshot_path": "data/screenshots/conferences/icoa.png",
+    "captured_at_utc": "2026-05-21T13:05:48.797833+00:00",
+    "status": "success",
+    "error": null
+  },
+  {
+    "site_id": "conference_wise2026",
+    "url": "https://conferences.sigappfr.org/wise2026/call-for-papers/",
+    "snapshot_path": "data/snapshots/conferences/wise2026_cfp.html",
+    "screenshot_path": "data/screenshots/conferences/wise2026_cfp.png",
+    "captured_at_utc": "2026-05-21T13:05:55.783183+00:00",
+    "status": "success",
+    "error": null
+  }
+]

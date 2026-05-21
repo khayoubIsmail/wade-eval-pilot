@@ -1,0 +1,33 @@
+{
+  "schema_name": "ecommerce_product_schema",
+  "fields": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "string",
+      "required": true
+    },
+    "rating": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "availability": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "product_url": {
+      "type": ["string", "null"],
+      "required": false
+    },
+    "source_url": {
+      "type": "string",
+      "required": true
+    },
+    "source_xpath": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

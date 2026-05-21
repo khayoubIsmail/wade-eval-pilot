@@ -1,0 +1,16 @@
+\begin{table}[t]
+\centering
+\caption{Pilot WADE-Eval results across six live web pages.}
+\label{tab:wade_eval_pilot}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{lrrrrrrr}
+\hline
+Agent & TSR & Field F1 & RC & SV & Prov. & Lat. $\downarrow$ & CPCR $\downarrow$ \\
+\hline
+Traditional scraper & 1.00 & 0.79 & 1.00 & 1.00 & 1.00 & 0.22 & 0.0000 \\
+LLM-only & 1.00 & 0.45 & 1.00 & 1.00 & 0.00 & 5.22 & -- \\
+LLM+MCP browser & 1.00 & 0.84 & 1.00 & 1.00 & 1.00 & 250.48 & 0.1522 \\
+\hline
+\end{tabular}%
+}
+\end{table}

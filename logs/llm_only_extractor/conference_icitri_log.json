@@ -1,0 +1,14 @@
+{
+  "agent": "llm_only_extractor",
+  "site_id": "conference_icitri",
+  "model": "claude-haiku-4-5",
+  "start_time": "2026-05-21T17:30:39",
+  "latency_seconds": 3.89,
+  "tokens_input": 4839,
+  "tokens_output": 368,
+  "estimated_cost": 0.006679,
+  "html_chars_sent": 14202,
+  "num_records": 1,
+  "status": "success",
+  "error": null
+}

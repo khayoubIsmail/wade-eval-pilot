@@ -1,0 +1,4 @@
+Agent,N_Sites,TSR,Field_F1,RC,SV,Provenance,Latency,Cost,CPCR,Tokens_Input,Tokens_Output,Correct_Records,Predicted_Records,Gold_Records
+traditional_scraper,6,1.0,0.7875,1.0,1.0,1.0,0.2198,0.0,0.0,0,0,10,32,32
+llm_only_extractor,6,1.0,0.45,1.0,1.0,0.0,5.225,0.050598,,28183,4483,0,32,32
+llm_playwright_agent,6,1.0,0.8417,1.0,1.0,1.0,250.4817,4.986006,0.1522,1516937,29013,20,33,32

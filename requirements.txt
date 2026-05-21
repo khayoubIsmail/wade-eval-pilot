@@ -1,0 +1,9 @@
+playwright
+pyyaml
+beautifulsoup4
+lxml
+pandas
+jsonschema
+python-dotenv
+openai
+anthropic

@@ -1,0 +1,102 @@
+[
+  {
+    "record_id": "1",
+    "name": "A Light in the Attic",
+    "price": "£51.77",
+    "rating": "3",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[1]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "2",
+    "name": "Tipping the Velvet",
+    "price": "£53.74",
+    "rating": "1",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[2]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "3",
+    "name": "Soumission",
+    "price": "£50.10",
+    "rating": "1",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[3]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "4",
+    "name": "Sharp Objects",
+    "price": "£47.82",
+    "rating": "4",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[4]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "5",
+    "name": "Sapiens: A Brief History of Humankind",
+    "price": "£54.23",
+    "rating": "5",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[5]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "6",
+    "name": "The Requiem Red",
+    "price": "£22.65",
+    "rating": "1",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[6]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "7",
+    "name": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": "£33.34",
+    "rating": "4",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[7]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "8",
+    "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": "£17.93",
+    "rating": "3",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[8]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "9",
+    "name": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": "£22.60",
+    "rating": "4",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[9]/article[1]/h3[1]/a[1]"
+  },
+  {
+    "record_id": "10",
+    "name": "The Black Maria",
+    "price": "£52.15",
+    "rating": "1",
+    "availability": "In stock",
+    "product_url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]/ol[1]/li[10]/article[1]/h3[1]/a[1]"
+  }
+]

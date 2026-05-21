@@ -1,0 +1,12 @@
+{
+  "agent": "traditional_scraper",
+  "site_id": "ecommerce_demoblaze",
+  "start_time": "2026-05-21T14:49:51",
+  "latency_seconds": 0.048,
+  "tokens_input": 0,
+  "tokens_output": 0,
+  "estimated_cost": 0.0,
+  "num_records": 9,
+  "status": "success",
+  "error": null
+}

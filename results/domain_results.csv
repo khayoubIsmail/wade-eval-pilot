@@ -1,0 +1,7 @@
+Agent,Domain,N_Sites,TSR,Field_F1,RC,SV,Provenance,Latency,Cost,CPCR,Tokens_Input,Tokens_Output,Correct_Records,Predicted_Records,Gold_Records
+traditional_scraper,ecommerce,3,1.0,0.8667,1.0,1.0,1.0,0.1033,0.0,0.0,0,0,10,29,29
+llm_only_extractor,ecommerce,3,1.0,0.4,1.0,1.0,0.0,6.16,0.027934,,12139,3159,0,29,29
+llm_playwright_agent,ecommerce,3,1.0,0.9333,1.0,1.0,1.0,55.7333,0.913014,0.1522,255253,9817,20,30,29
+traditional_scraper,conference,3,1.0,0.7083,1.0,1.0,1.0,0.3363,0.0,,0,0,0,3,3
+llm_only_extractor,conference,3,1.0,0.5,1.0,1.0,0.0,4.29,0.022664,,16044,1324,0,3,3
+llm_playwright_agent,conference,3,1.0,0.75,1.0,1.0,1.0,445.23,4.072992,,1261684,19196,0,3,3

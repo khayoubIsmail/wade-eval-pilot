@@ -1,0 +1,25 @@
+{
+  "name": "llm_playwright_agent",
+  "version": "1.0.0",
+  "description": "Agent 3 - LLM + Playwright MCP browser agent for WADE-Eval pilot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "mcp": "npx @playwright/mcp@latest --browser chrome --caps vision --ignore-https-errors --viewport-size 1440x1200 --output-dir ./mcp_outputs --output-mode file",
+    "mcp-headless": "npx @playwright/mcp@latest --browser chrome --caps vision --headless --ignore-https-errors --viewport-size 1440x1200 --output-dir ./mcp_outputs --output-mode file",
+    "mcp-help": "npx @playwright/mcp@latest --help"
+  },
+  "keywords": [
+    "playwright",
+    "mcp",
+    "browser-agent",
+    "web-extraction",
+    "wade-eval"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/mcp": "^0.0.75",
+    "playwright": "^1.61.0-alpha-1778188671000"
+  }
+}

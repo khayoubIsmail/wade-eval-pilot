@@ -1,0 +1,102 @@
+[
+  {
+    "record_id": "1",
+    "name": "A Light in the ...",
+    "price": "£51.77",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "2",
+    "name": "Tipping the Velvet",
+    "price": "£53.74",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "3",
+    "name": "Soumission",
+    "price": "£50.10",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "4",
+    "name": "Sharp Objects",
+    "price": "£47.82",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "5",
+    "name": "Sapiens: A Brief History ...",
+    "price": "£54.23",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "6",
+    "name": "The Requiem Red",
+    "price": "£22.65",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "7",
+    "name": "The Dirty Little Secrets ...",
+    "price": "£33.34",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "8",
+    "name": "The Coming Woman: A ...",
+    "price": "£17.93",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "9",
+    "name": "The Boys in the ...",
+    "price": "£22.60",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  },
+  {
+    "record_id": "10",
+    "name": "The Black Maria",
+    "price": "£52.15",
+    "rating": null,
+    "availability": "In stock",
+    "product_url": null,
+    "source_url": "https://books.toscrape.com/",
+    "source_xpath": null
+  }
+]

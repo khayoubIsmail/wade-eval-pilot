@@ -1,0 +1,92 @@
+[
+  {
+    "record_id": "1",
+    "name": "Samsung galaxy s6",
+    "price": "$360",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=1",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[1]/div/div/h4/a"
+  },
+  {
+    "record_id": "2",
+    "name": "Nokia lumia 1520",
+    "price": "$820",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=2",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[2]/div/div/h4/a"
+  },
+  {
+    "record_id": "3",
+    "name": "Nexus 6",
+    "price": "$650",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=3",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[3]/div/div/h4/a"
+  },
+  {
+    "record_id": "4",
+    "name": "Samsung galaxy s7",
+    "price": "$800",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=4",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[4]/div/div/h4/a"
+  },
+  {
+    "record_id": "5",
+    "name": "Iphone 6 32gb",
+    "price": "$790",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=5",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[5]/div/div/h4/a"
+  },
+  {
+    "record_id": "6",
+    "name": "Sony xperia z5",
+    "price": "$320",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=6",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[6]/div/div/h4/a"
+  },
+  {
+    "record_id": "7",
+    "name": "HTC One M9",
+    "price": "$700",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=7",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[7]/div/div/h4/a"
+  },
+  {
+    "record_id": "8",
+    "name": "Sony vaio i5",
+    "price": "$790",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=8",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[8]/div/div/h4/a"
+  },
+  {
+    "record_id": "9",
+    "name": "Sony vaio i7",
+    "price": "$790",
+    "rating": null,
+    "availability": null,
+    "product_url": "https://www.demoblaze.com/prod.html?idp_=9",
+    "source_url": "https://www.demoblaze.com/index.html",
+    "source_xpath": "/html/body/div[5]/div/div[2]/div/div[9]/div/div/h4/a"
+  }
+]

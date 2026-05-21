@@ -1,0 +1,83 @@
+# =========================
+# Secrets / environment
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Jupyter / notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Node / Playwright MCP
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Optional: keep package-lock if you want exact reproducibility.
+# If yes, remove package-lock.json from this gitignore.
+
+# =========================
+# Playwright / MCP outputs
+# =========================
+agents/llm_playwright_agent/mcp_outputs/
+playwright-report/
+test-results/
+*.trace.zip
+
+# =========================
+# Large/generated browser files
+# =========================
+data/screenshots/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# =========================
+# Runtime logs
+# =========================
+*.log
+logs/**/*.tmp
+
+# Keep structured experiment logs if you want reproducibility.
+# If you want to exclude all logs, uncomment:
+# logs/
+
+# =========================
+# OS / editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
+*.bak
+*.tmp
