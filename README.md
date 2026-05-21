@@ -405,5 +405,3 @@ If you use this artifact, please cite the associated WADE-Eval paper.
 ## License
 
 This repository is released for academic and reproducibility purposes.
-
-Add a `LICENSE` file before public release if needed.
