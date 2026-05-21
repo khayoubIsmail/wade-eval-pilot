@@ -387,33 +387,6 @@ Known limitations:
 
 ---
 
-## Security and Privacy
-
-Do not commit API keys or local secrets.
-
-The repository should include:
-
-```text
-.env.example
-```
-
-but should not include:
-
-```text
-.env
-node_modules/
-agents/llm_playwright_agent/mcp_outputs/
-large screenshots unless required
-```
-
----
-
-## Suggested Paper Artifact Statement
-
-> We release the pilot evaluation artifact, including schemas, ground truth, agent outputs, logs, and evaluation scripts, in a public GitHub repository.
-
----
-
 ## Citation
 
 If you use this artifact, please cite the associated WADE-Eval paper.
