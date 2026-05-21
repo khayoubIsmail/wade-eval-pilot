@@ -367,6 +367,8 @@ This artifact includes:
 - Evaluation scripts
 - Result tables
 
+HTML snapshots and screenshots are generated locally by `capture_pages.py` and are excluded from the repository to keep the artifact lightweight.
+
 Live websites may change over time. For reproducibility, saved HTML snapshots are included where appropriate.
 
 ---
