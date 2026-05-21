@@ -50,6 +50,7 @@ test-results/
 # =========================
 # Large/generated browser files
 # =========================
+data/snapshots/
 data/screenshots/
 *.png
 *.jpg
