@@ -421,7 +421,7 @@ If you use this artifact, please cite the associated WADE-Eval paper.
 ```bibtex
 @misc{wadeeval2026,
   title        = {WADE-Eval: A Taxonomy and Evaluation Framework for Web Automation and Data Extraction Agents},
-  author       = {Khayoub, Ismail},
+  author       = {Khayoub, Ismail and Chadi, Mohamed-Amine and Mousannif, Hajar and Ait Mohamed, Firdaous},
   year         = {2026},
   note         = {Pilot evaluation artifact}
 }
